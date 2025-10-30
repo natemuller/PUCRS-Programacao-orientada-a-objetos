@@ -8,5 +8,5 @@ Aprender e aplicar os princípios fundamentais da Programação Orientada a Obje
 
 🧩 **Estrutura do repositório**
 
-- **Listas de exercícios:** resoluções de 5 listas propostas ao longo do semestre.  
+- **Listas de exercícios:** resoluções de 3 listas propostas ao longo do semestre.  
 - **Trabalho final:** projeto prático em linguagem Java, integrando os conceitos aprendidos ao longo da disciplina.
